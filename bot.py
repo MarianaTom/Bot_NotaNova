@@ -10,8 +10,8 @@ import asyncio
 load_dotenv()
 #TOKEN del bot
 TOKEN = os.getenv("TOKEN")
-ID_ASISTENCIA=1098776649060864051
-ID_UPDATE=1073289305662967940
+ID_ASISTENCIA=1389709699301118095
+ID_UPDATE=1389837483327488011
 
 intents = discord.Intents.default()
 intents.message_content = True
